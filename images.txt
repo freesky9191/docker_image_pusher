@@ -1,1 +1,2 @@
 --platform=linux/arm64 jlesage/docker-firefox:latest
+qbittorrent/qBittorrent
