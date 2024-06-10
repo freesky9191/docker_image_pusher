@@ -1,1 +1,1 @@
---platform linux/amd64 Jackett/Jackett:latest
+--platform linux/arm64 Jackett/Jackett:latest
