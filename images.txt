@@ -1,2 +1,1 @@
-hsuyelin/nas-tools
-jlesage/docker-firefox
+docker-firefox
