@@ -1,1 +1,1 @@
---platform=linux/amd64 reids:7.0.15-Jackett/Jackett
+--platform linux/amd64 Jackett/Jackett:latest
