@@ -1,2 +1,3 @@
 jlesage/firefox
 linuxserver/jackett
+receyuki/nas-tools
