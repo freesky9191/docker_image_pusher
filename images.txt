@@ -1,3 +1,3 @@
 jlesage/firefox
 linuxserver/jackett
-freesky9191/nas-tools
+wangyan/nas-tools:2.9.1
