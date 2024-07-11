@@ -1,3 +1,4 @@
 jlesage/firefox
 linuxserver/jackett
 hsuyelin/nas-tools:latest
+receyuki/nas-tools:latest
