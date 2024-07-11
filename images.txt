@@ -1,3 +1,3 @@
 jlesage/firefox
 linuxserver/jackett
-19970688/nastools-bt
+receyuki/nas-tools:v2.9.1
